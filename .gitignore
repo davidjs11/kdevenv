@@ -1,0 +1,5 @@
+busybox/
+linux/
+shared/
+rootfs/
+*.cpio.gz
